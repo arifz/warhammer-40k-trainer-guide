@@ -1,0 +1,10 @@
+# Do not edit manually
+# See https://github.com/github/linguist
+public/** linguist-vendored
+*.js linguist-detectable
+src/**/*.js linguist-detectable
+*.min.css linguist-generated
+package-lock.json linguist-generated
+*.jpg binary
+*.ico binary
+*.bat text eol=crlf
