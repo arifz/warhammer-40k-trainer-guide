@@ -1,0 +1,9 @@
+build/
+.next/
+npm-debug.log*
+.DS_Store
+dist/
+node_modules/
+*.log
+yarn-error.log*
+_site/
